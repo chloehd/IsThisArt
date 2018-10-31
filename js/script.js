@@ -14,7 +14,7 @@ var allPictures = [
   { category: "child", src: "./images/img11.jpg" },
   { category: "child", src: "./images/img12.jpg" },
   { category: "child", src: "./images/img13.jpg" },
-  { category: "child", src: "./images/img14.jpg" },
+  { category: "child", src: "./images/img14.JPG" },
   { category: "child", src: "./images/img15.jpg" },
 ];
 
