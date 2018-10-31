@@ -1,21 +1,21 @@
 // array of pictures
 
 var allPictures = [
-  { category: "art", src: "./Images/img1.jpg" },
-  { category: "art", src: "./Images/img2.jpg" },
-  { category: "art", src: "./Images/img3.jpg" },
-  { category: "art", src: "./Images/img4.jpg" },
-  { category: "art", src: "./Images/img5.jpg" },
-  { category: "art", src: "./Images/img6.jpg" },
-  { category: "art", src: "./Images/img7.jpg" },
-  { category: "art", src: "./Images/img8.jpg" },
-  { category: "art", src: "./Images/img9.jpg" },
-  { category: "art", src: "./Images/img10.jpg" },
-  { category: "child", src: "./Images/img11.jpg" },
-  { category: "child", src: "./Images/img12.jpg" },
-  { category: "child", src: "./Images/img13.jpg" },
-  { category: "child", src: "./Images/img14.jpg" },
-  { category: "child", src: "./Images/img15.jpg" },
+  { category: "art", src: "./images/img1.jpg" },
+  { category: "art", src: "./images/img2.jpg" },
+  { category: "art", src: "./images/img3.jpg" },
+  { category: "art", src: "./images/img4.jpg" },
+  { category: "art", src: "./images/img5.jpg" },
+  { category: "art", src: "./images/img6.jpg" },
+  { category: "art", src: "./images/img7.jpg" },
+  { category: "art", src: "./images/img8.jpg" },
+  { category: "art", src: "./images/img9.jpg" },
+  { category: "art", src: "./images/img10.jpg" },
+  { category: "child", src: "./images/img11.jpg" },
+  { category: "child", src: "./images/img12.jpg" },
+  { category: "child", src: "./images/img13.jpg" },
+  { category: "child", src: "./images/img14.jpg" },
+  { category: "child", src: "./images/img15.jpg" },
 ];
 
 
