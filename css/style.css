@@ -114,3 +114,15 @@ ul {
   margin: auto;
 }
 
+.answer {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 100px;
+  width: 300px;
+  background-color: white;
+  border-radius: 3px;
+  color: black;
+  font-size: 14px;
+}
