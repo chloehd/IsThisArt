@@ -55,8 +55,8 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 400px;
+  max-height: 400px;
 }
 
 .btn-outline-dark {
@@ -97,7 +97,7 @@ ul {
   height: 15px;
   border: 0.5px solid black;
   border-radius: 100%;
-  margin: 15px 10px 15px 0;
+  margin: 15px 10px 0 0;
   background-color: white;
 }
 
