@@ -125,7 +125,7 @@ function checkGameOver() {
 }
 
 function checkWin() {
-  if (allPictures.length === 0) {
+  if (allPictures.length === 0 && errorCounter < 3) {
     $(".win").css("display", "flex");
     $(".content").css("display", "none");
   }
